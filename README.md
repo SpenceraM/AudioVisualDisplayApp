@@ -138,7 +138,3 @@ python audio_waterfall_app.py
 ## License
 
 This application is provided as-is for educational and research purposes.
-
-## Author
-
-Spencer Markowitz
