@@ -141,4 +141,4 @@ This application is provided as-is for educational and research purposes.
 
 ## Author
 
-Created with assistance from AI Assistant, 2024.
+Spencer Markowitz
