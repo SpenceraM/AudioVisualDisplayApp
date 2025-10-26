@@ -3,11 +3,11 @@
 A powerful Qt-based application for real-time audio spectrogram visualization that enables users to correlate visual events in video with their corresponding audio features. This application displays synchronized audio spectrograms (waterfall plots) alongside video frames, allowing users to see what visual events cause specific audio characteristics.
 
 <div align="center">
-  <img src="demoRecord.gif" width="50%"/>
+  <img src="demoRecord.gif" width="80%"/>
 </div>
 
 <div align="center">
-  <img src="demoDrone.gif" width="50%"/>
+  <img src="demoDrone.gif" width="80%"/>
 </div>
 
 
